@@ -1,2 +1,2 @@
-# sudoku-solver
+# Sudoku solver
 A  sudoku solver in Haskell.
